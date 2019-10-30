@@ -49,13 +49,13 @@ The dataset needs extensive EDA, which will inform the first draft of possible f
 -------------
 *Sources*
 
-de Souza Pereira Moreira, Gabriel and Ferreira, Felipe and da Cunha, Adilson Marques (2018). News Session-Based Recommendations using Deep Neural Networks. In: roceedings of the 3rd Workshop on Deep Learning for Recommender Systems - DLRS 2018, http://dx.doi.org/10.1145/3270323.3270328
+de Souza Pereira Moreira, Gabriel and Ferreira, Felipe and da Cunha, Adilson Marques (2018). News Session-Based Recommendations using Deep Neural Networks. In: Proceedings of the 3rd Workshop on Deep Learning for Recommender Systems - DLRS 2018, http://dx.doi.org/10.1145/3270323.3270328
 
 Huptych, Michal; Bohuslavek, Michal; Hlosta, Martin and Zdrahal, Zdenek (2017). Measures for recommendations
 based on past students’ activity. In: LAK ’17 Proceedings of the Seventh International Learning Analytics & Knowledge
-Conference on - LAK ’17, pp. 404–408.
+Conference on - LAK ’17, pp. 404–408. http://dx.doi.org/doi:10.1145/3027385.3027426
 
-Young, Scott (2019). Ultralearning. Harper-Collins.
+Young, Scott (2019). Ultralearning. Chapter 5. Harper-Collins.
 
 -------------
 *Dataset*

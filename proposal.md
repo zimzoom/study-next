@@ -1,5 +1,6 @@
-Proposal
+Study Recommender Proposal
 ===========
+*K. Lucia Zimmermann*
 
 I. Objective
 ---------

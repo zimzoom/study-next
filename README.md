@@ -17,7 +17,7 @@ Key jupyter notebooks
 
 `1_student_logreg`: logistic regression classifying students as succeed/fail based on student demographic information
 
-`2_lstm_rf_diffs`: long short term memory neural network classifying students as succeed/fail based on student click behavior from the first third of course timelines (in order to simulate real-world prediction circumstances)
+`2_lstm_rf_diffs`: long short term memory neural network classifying students as succeed/fail based on student click behavior from the first quarter of course timelines (in order to simulate real-world prediction circumstances)
 
 `3_timeseries_features_model`: **the most successful model in this project.** Here, a random forest classifier achieves 79% accuracy (and importantly, 87% precision on failing students) when given only the best, most useful features as identified by the tsfresh package, which is designed specifically for time series feature extraction.
 
